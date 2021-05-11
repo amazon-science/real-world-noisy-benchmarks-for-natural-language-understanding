@@ -1,11 +1,49 @@
-## My Project
+# Real World Noise Benchmarks for Natural Language Understanding
 
-TODO: Fill this README out!
+## Directory Structure
 
-Be sure to:
+```
+.
+- data
+  - atis
+    - abbreviations
+      - treatment_test.tsv 
+    - allcaps
+      - treatment_test.tsv
+    - misspellings
+      - treatment_test.tsv
+    - morphological
+      - treatment_test.tsv
+    - paraphrase
+      - treatment_test.tsv
+    - synonyms
+      - treatment_test.tsv
+  - snips
+    - abbreviations
+       - treatment_test.tsv
+     - allcaps
+       - treatment_test.tsv
+     - misspellings
+       - treatment_test.tsv
+     - morphological
+       - treatment_test.tsv
+     - paraphrase
+       - treatment_test.tsv
+     - synonyms
+       - treatment_test.tsv
+```
 
-* Change the title in this README
-* Edit your repository description on GitHub
+## Citation
+
+If you use this dataset, please cite the following paper:
+```
+@article{krone_sengupta_mansoor_2021robustness,
+  title={On the Robustness of Goal Oriented Dialogue Systems to Real-world Noise},
+  author={Krone, Jason and Sengupta, Sailik and Mansoor, Saab},
+  journal={ICLR Workshop on Robust and Reliable ML in the Real-world},
+  year={2021}
+}
+```
 
 ## Security
 
@@ -13,6 +51,4 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License Summary
 
-The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
-
-The sample code within this documentation is made available under the MIT-0 license. See the LICENSE-SAMPLECODE file.
+The documentation is made available under the Creative Commons Attribution-NonCommercial 4.0 International License. See the [LICENSE](LICENSE) file.
