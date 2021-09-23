@@ -4,11 +4,11 @@
 
 If you use this dataset, please cite the following paper:
 ```
-@article{krone2021robustness,
-  title={On the Robustness of Goal Oriented Dialogue Systems to Real-world Noise},
-  author={Krone, Jason and Sengupta, Sailik and Mansour, Saab},
+@article{sengupta2021robustgods,
+  title={On the Robustness of Intent Classification and Slot Labeling in Goal-oriented Dialog Systems to Real-world Noise},
+  author={Sengupta, Sailik and Krone, Jason and Mansour, Saab},
   url={https://arxiv.org/abs/2104.07149},
-  journal={ICLR Workshop on Robust and Reliable ML in the Real-world},
+  journal={NLP for Conversational AI -- EMNLP},
   year={2021}
 }
 ```
