@@ -2,14 +2,21 @@
 
 ## Project
 
-If you use this dataset, please cite the following paper:
+If you use this dataset, please cite [the following paper](https://aclanthology.org/2021.nlp4convai-1.7/):
 ```
-@article{sengupta2021robustgods,
-  title={On the Robustness of Intent Classification and Slot Labeling in Goal-oriented Dialog Systems to Real-world Noise},
-  author={Sengupta, Sailik and Krone, Jason and Mansour, Saab},
-  url={https://arxiv.org/abs/2104.07149},
-  journal={NLP for Conversational AI -- EMNLP},
-  year={2021}
+@inproceedings{sengupta-etal-2021-robustness,
+    title = "On the Robustness of Intent Classification and Slot Labeling in Goal-oriented Dialog Systems to Real-world Noise",
+    author = "Sengupta, Sailik  and
+      Krone, Jason  and
+      Mansour, Saab",
+    booktitle = "Proceedings of the 3rd Workshop on Natural Language Processing for Conversational AI",
+    month = nov,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.nlp4convai-1.7",
+    doi = "10.18653/v1/2021.nlp4convai-1.7",
+    pages = "68--79"
 }
 ```
 
